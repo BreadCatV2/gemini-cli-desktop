@@ -61,7 +61,7 @@ Use with **Qwen Code:**
 
 ## Features
 
-- **Multi-model support** - Gemini 2.5 Pro/Flash, Qwen Code, custom OpenAI providers
+- **Multi-model support** - Gemini 3 Pro/Flash, Gemini 2.5 Pro/Flash, Qwen Code, custom OpenAI providers
 - **Visual tool confirmation** - Review and approve AI actions before execution
 - **Real-time thought process** - Watch AI reasoning unfold
 - **Code diff viewer** - Clear visualization of proposed changes
